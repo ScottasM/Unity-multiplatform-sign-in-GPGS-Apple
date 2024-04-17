@@ -1,4 +1,4 @@
-# Unity-multiplatform-sign-in-GPGS-Apple-
+# Unity multi platform authentication with GPGS and Apple
 
 # Introduction
 Having spent some time setting up log in, cloud saves for apple and android, i've realised how hard is it to find complete solutions to smooth and easy setup for GPGS and apple game kit logins. This is an example project, where you can find a complete solution for authenticatio and cloud saves using GPGS and apple game center.
@@ -48,7 +48,7 @@ Apart from setting up the project in apple game centre, you also have to do this
 1. Set up and install the Apple Game Kit Unity plugin, found in the Apple Unity Plug-ins repository. The GameKit framework is used to implement Apple Game Center features including player identity. 
 
 2. Add Apple Game Center as an ID provider for Unity:
- In the Unity Editor menu, go to Edit > Project Settings…, then select Services > Authentication from the navigation menu.
+ In the Unity Editor menu, go to Edit > Project Settingsâ€¦, then select Services > Authentication from the navigation menu.
 Set ID Providers to Apple Game Center, then select Add.
 Enter the Bundle ID from the Apple developer console in the Bundle ID text field, then select Save. The Bundle ID should look like this: "com.something.somethingelse".
 
