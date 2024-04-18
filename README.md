@@ -1,7 +1,7 @@
 # Unity multi platform authentication with GPGS and Apple
 
 # Introduction
-Having spent some time setting up log in, cloud saves for apple and android, i've realised how hard is it to find complete solutions to smooth and easy setup for GPGS and apple game kit logins. This is an example project, where you can find a complete solution for authenticatio and cloud saves using GPGS and apple game center.
+Having spent some time setting up log in, cloud saves for apple and android, i've realised how hard is it to find complete solutions to smooth and easy setup for GPGS and apple game center authentication. This is an example project, where you can find a complete solution for authentication and cloud saves using GPGS and apple game center including guest (offline) auth, silent sign in, account deletion and etc.
 
 
 # Note
